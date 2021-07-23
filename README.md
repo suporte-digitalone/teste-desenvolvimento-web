@@ -35,6 +35,7 @@ Este teste tem como objetivo avaliar seus conhecimentos. Fique tranquilo, caso n
 
 - Deverá ser feito em HTML e CSS.
   - O uso de frameworks como Bootstrap e Materialize estão liberados.
+  - Layout responsivo.
 
 ## Por onde começar?
 
